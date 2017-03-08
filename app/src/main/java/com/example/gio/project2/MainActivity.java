@@ -5,7 +5,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    int i;
+    int i, i_branch1;
+    int branch2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
